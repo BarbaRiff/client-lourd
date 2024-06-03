@@ -1,0 +1,35 @@
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.exe.config
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.exe
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.pdb
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.AssemblyReference.cache
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.FormGM.resources
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.FormClient.resources
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.Properties.Resources.resources
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.GenerateResource.cache
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.CoreCompileInputs.cache
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.exe
+C:\pro\BTS\F2I\BTS2 SIO SLAM ALT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.pdb
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.exe.config
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.exe
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.pdb
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.AssemblyReference.cache
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.FormGM.resources
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.FormClient.resources
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.FormMateriel.resources
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.Properties.Resources.resources
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.GenerateResource.cache
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.CoreCompileInputs.cache
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.exe
+C:\pro\BTS\F2I\BTS2 SIO SLAM INIT1\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.pdb
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.exe.config
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.exe
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\bin\Debug\WindowsFormsAppGM23.pdb
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.AssemblyReference.cache
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.FormGM.resources
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.FormClient.resources
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.FormMateriel.resources
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.Properties.Resources.resources
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.GenerateResource.cache
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.csproj.CoreCompileInputs.cache
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.exe
+C:\Client lourd\WindowsFormsAppGM23\WindowsFormsAppGM23\obj\Debug\WindowsFormsAppGM23.pdb
